@@ -1,0 +1,17 @@
+{
+  "name": "twiter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "init.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node init.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.11.2",
+    "http": "0.0.0",
+    "twitter": "^1.2.1"
+  }
+}
